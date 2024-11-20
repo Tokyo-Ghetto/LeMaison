@@ -4,17 +4,13 @@ import { Footer } from "@/components/ui/footer";
 
 interface RootLayoutProps {
   children: React.ReactNode;
-  hideHeader?: boolean;
 }
 
-export default function RootLayout({
-  children,
-  hideHeader = false,
-}: RootLayoutProps) {
+export default function RootLayout({ children }: RootLayoutProps) {
   return (
     <html lang="en">
       <body>
-        {!hideHeader && <Header />}
+        <Header />
         {children}
         <Footer />
       </body>
