@@ -22,7 +22,6 @@ export function HomePage() {
       try {
         const response = await fetch("/products.json");
         const allProducts: Product[] = await response.json();
-        // Get first 3 products
         setFeaturedProducts(allProducts.slice(0, 3));
       } catch (error) {
         console.error("Error fetching products:", error);
@@ -81,9 +80,6 @@ export function HomePage() {
                       <h3 className="text-lg font-semibold text-[#543310] mb-2">
                         {product.name}
                       </h3>
-                      <p className="text-[#1E424D] mb-4">
-                        {product.description}
-                      </p>
                       <div className="flex justify-between items-center">
                         <span className="text-lg font-bold text-[#E19E11]">
                           ${product.price.toFixed(2)}

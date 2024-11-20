@@ -61,7 +61,7 @@ export function CartPage() {
     0
   );
   const shipping = 9.99;
-  const taxRate = 0.1; // 10% tax rate
+  const taxRate = 0.1; // 10% tax
   const tax = subtotal * taxRate;
   const total = subtotal + shipping + tax;
 
@@ -103,7 +103,7 @@ export function CartPage() {
                       <Trash2 className="w-5 h-5" />
                     </button>
                   </div>
-                  <p className="text-[#1E424D] mb-4">{item.description}</p>
+
                   <div className="flex justify-between items-center">
                     <div className="flex items-center gap-2">
                       <button
@@ -112,16 +112,18 @@ export function CartPage() {
                           updateQuantity(item.id, item.quantity - 1)
                         }
                       >
-                        <Minus className="w-4 h-4" />
+                        <Minus className="w-4 h-4 stroke-[#543310]" />
                       </button>
-                      <span className="w-8 text-center">{item.quantity}</span>
+                      <span className="w-8 text-center text-[#543310]">
+                        {item.quantity}
+                      </span>
                       <button
                         className="p-1 hover:bg-[#FBD1A2] rounded"
                         onClick={() =>
                           updateQuantity(item.id, item.quantity + 1)
                         }
                       >
-                        <Plus className="w-4 h-4" />
+                        <Plus className="w-4 h-4 stroke-[#543310]" />
                       </button>
                     </div>
                     <span className="font-bold text-[#E19E11]">

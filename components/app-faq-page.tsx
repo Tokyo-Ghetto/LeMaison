@@ -121,7 +121,7 @@ export function FAQPage() {
         <div className="mt-12 text-center">
           <p className="text-[#1E424D] mb-4">Still have questions?</p>
           <a
-            href="/support"
+            href="/contact"
             className="inline-block bg-[#E19E11] text-white px-8 py-3 rounded-full hover:bg-[#AF8F6F] transition-colors"
           >
             Contact Support

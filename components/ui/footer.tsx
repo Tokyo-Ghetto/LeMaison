@@ -21,7 +21,7 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/support" className="text-sm hover:text-[#FBD1A2]">
+                <Link href="/contact" className="text-sm hover:text-[#FBD1A2]">
                   Contact
                 </Link>
               </li>

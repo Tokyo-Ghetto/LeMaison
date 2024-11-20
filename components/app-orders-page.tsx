@@ -10,14 +10,14 @@ export function OrdersPage() {
   const sampleOrders = [
     {
       id: "ORD-2024-001",
-      date: "2024-03-15",
+      date: "2024-10-19",
       status: "Delivered",
       total: 159.99,
       items: 3,
     },
     {
       id: "ORD-2024-002",
-      date: "2024-03-18",
+      date: "2024-11-04",
       status: "In Transit",
       total: 89.99,
       items: 2,
@@ -39,7 +39,7 @@ export function OrdersPage() {
               placeholder="Enter Order Number"
               value={orderNumber}
               onChange={(e) => setOrderNumber(e.target.value)}
-              className="flex-grow px-4 py-2 border border-[#AF8F6F] rounded-lg focus:outline-none focus:border-[#E19E11]"
+              className="flex-grow px-4 py-2 border border-[#AF8F6F] rounded-lg focus:outline-none focus:border-[#E19E11] text-[#543310]"
             />
             <button className="bg-[#E19E11] text-white px-6 py-2 rounded-lg hover:bg-[#AF8F6F] transition-colors flex items-center gap-2">
               <Search className="w-5 h-5" />

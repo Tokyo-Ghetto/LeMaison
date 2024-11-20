@@ -26,7 +26,7 @@ export function AboutPage() {
               </p>
               <div className="flex gap-4">
                 <Link
-                  href="/support"
+                  href="/contact"
                   className="inline-block bg-[#E19E11] text-white px-6 py-3 rounded-full hover:bg-[#AF8F6F] transition-colors"
                 >
                   Contact Us

@@ -19,7 +19,7 @@ export function CheckoutPage() {
                 Shipping Information
               </h2>
               <form className="space-y-4">
-                <div className="grid grid-cols-2 gap-4">
+                <div className="grid grid-cols-2 gap-4 text-[#543310]">
                   <input
                     type="text"
                     placeholder="First Name"
@@ -34,9 +34,9 @@ export function CheckoutPage() {
                 <input
                   type="text"
                   placeholder="Address"
-                  className="w-full px-4 py-2 border border-[#AF8F6F] rounded-lg"
+                  className="w-full px-4 py-2 border border-[#AF8F6F] text-[#543310] rounded-lg"
                 />
-                <div className="grid grid-cols-2 gap-4">
+                <div className="grid grid-cols-2 gap-4 text-[#543310]">
                   <input
                     type="text"
                     placeholder="City"
@@ -65,13 +65,16 @@ export function CheckoutPage() {
                     checked={paymentMethod === "credit"}
                     onChange={(e) => setPaymentMethod(e.target.value)}
                   />
-                  <label htmlFor="credit" className="flex items-center gap-2">
+                  <label
+                    htmlFor="credit"
+                    className="flex items-center gap-2 text-[#543310]"
+                  >
                     <CreditCard className="w-5 h-5" />
                     Credit Card
                   </label>
                 </div>
                 {paymentMethod === "credit" && (
-                  <div className="space-y-4">
+                  <div className="space-y-4 text-[#543310]">
                     <input
                       type="text"
                       placeholder="Card Number"

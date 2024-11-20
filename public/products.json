@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Card Holder",
-    "description": "A card holder with a beautiful design.",
+    "description": "Organized all your cards by having this LeMaison's wood card holder measuring 5\" x 5\" x 4.25\". The design is classic. Flannel is attached to the bottom of each cardholder to prevent it from sliding or getting broken.",
     "category": "Organizers",
     "images": [
       "/Products/CardHolder1.jpg",
@@ -15,7 +15,7 @@
   {
     "id": "2",
     "name": "Chess Box",
-    "description": "Placeholder description",
+    "description": "Introducing our classic Wood Checkers Game Set with 24 pieces in black and white - the perfect addition to your collection of board games!",
     "category": "Decorations",
     "images": [
       "/Products/ChessBox1.jpg",
@@ -28,7 +28,7 @@
   {
     "id": "3",
     "name": "Dish Towel",
-    "description": "Placeholder description",
+    "description": "Celebrate the joy of togetherness with our \"Family, Friends, and Fireworks\" dish towel. This vibrant and multi-colored towel adds a festive touch to your kitchen.",
     "category": "Towels",
     "images": ["/Products/DishTowel1.jpg"],
     "price": 12.99
@@ -36,7 +36,7 @@
   {
     "id": "4",
     "name": "Garland",
-    "description": "Placeholder description",
+    "description": "A charming look on a Christmas tree during the holidays? Grab this garland today! You will love this wood bead garland with tassels to use as home decor or to add life and color to your accessory, table, display, or mantel.",
     "category": "Seasonal",
     "images": ["/Products/Garland1.jpg", "/Products/Garland2.jpg"],
     "price": 22.99
@@ -44,7 +44,7 @@
   {
     "id": "5",
     "name": "Mail Box",
-    "description": "Placeholder description",
+    "description": "Bring a touch of nostalgic charm to your home with our 10x12x3 Wood Mailbox, adorned with a classic 'LETTERS TO SANTA' motif in striking red and white. Crafted with meticulous attention to detail, this mailbox adds a whimsical yet functional element to your outdoor decor.",
     "category": "Seasonal",
     "images": [
       "/Products/MailBox1.jpg",
@@ -57,7 +57,7 @@
   {
     "id": "6",
     "name": "Ornament",
-    "description": "Placeholder description",
+    "description": "This intricately designed icicle ornament brings warmth and natural beauty to any setting. The earthy brown color of this icicle ornament evokes a cozy, rustic ambiance, making it a perfect choice for country-style decor, winter themes, or holiday displays.",
     "category": "Seasonal",
     "images": ["/Products/Ornament1.jpg", "/Products/Ornament2.jpg"],
     "price": 7.99
@@ -65,7 +65,7 @@
   {
     "id": "7",
     "name": "NYE Pillow",
-    "description": "Placeholder description",
+    "description": "Ring in the New Year with style using this festive reversible pillow featuring a vibrant \"Happy New Year\" design. Measuring 12x13x4 inches, this multicolor pillow adds a celebratory touch to your living room, bedroom, or party space, making it the perfect accent for holiday gatherings.",
     "category": "Pillows",
     "images": [
       "/Products/Pillow1.jpg",
@@ -78,7 +78,7 @@
   {
     "id": "8",
     "name": "Christmas Pillow",
-    "description": "Placeholder description",
+    "description": "Crafted with care and attention to detail, this pillow adds a touch of elegance and comfort to any space. Whether displayed on a sofa, chair, or bed, it effortlessly complements your decor with its versatile design. ",
     "category": "Pillows",
     "images": [
       "/Products/RedPillow1.jpg",
@@ -91,7 +91,7 @@
   {
     "id": "9",
     "name": "Riser",
-    "description": "Placeholder description",
+    "description": "This stylish and natural wood riser brings a touch of rustic charm to your space. Crafted with precision and attention to detail, its round shape adds a unique visual appeal, making it a standout piece for displaying various items.",
     "category": "Organizers",
     "images": [
       "/Products/Riser1.jpg",
@@ -104,7 +104,7 @@
   {
     "id": "10",
     "name": "Sign",
-    "description": "Placeholder description",
+    "description": " This delightful sign features two unique designs: one side proudly displays the words \"GIDDY UP\" accompanied by a pair of boots, while the reverse side showcases an attractive boots-only design.",
     "category": "Decorations",
     "images": [
       "/Products/Sign1.jpg",
@@ -116,7 +116,7 @@
   {
     "id": "11",
     "name": "Sign Heart",
-    "description": "Placeholder description",
+    "description": "This elegant wood frame sign from our collection offers a timeless tribute to loved ones. It features the simple yet profound message: \"Always in My Heart.\"",
     "category": "Decorations",
     "images": ["/Products/SignHeart1.jpg", "/Products/SignHeart2.jpg"],
     "price": 14.99
@@ -124,7 +124,7 @@
   {
     "id": "12",
     "name": "Storybook",
-    "description": "Placeholder description",
+    "description": "Embark on a journey through classic tales of the North Pole, where every page comes alive with vibrant illustrations and captivating stories. All pieces fit snugly inside the book, ensuring easy storage and organization. ",
     "category": "Seasonal",
     "images": [
       "/Products/Storybook1.jpg",

@@ -23,11 +23,8 @@ function getRandomProducts(
   currentProductId: string,
   count: number
 ): Product[] {
-  // Filter out the current product
   const availableProducts = products.filter((p) => p.id !== currentProductId);
-  // Shuffle array
   const shuffled = [...availableProducts].sort(() => 0.5 - Math.random());
-  // Get first 'count' items
   return shuffled.slice(0, count);
 }
 
@@ -157,9 +154,7 @@ export function ProductPage({ productId }: ProductPageProps) {
                   <h3 className="text-lg font-semibold text-[#543310] mb-2">
                     {relatedProduct.name}
                   </h3>
-                  <p className="text-[#1E424D] mb-2">
-                    {relatedProduct.description}
-                  </p>
+
                   <span className="text-lg font-bold text-[#E19E11]">
                     ${relatedProduct.price.toFixed(2)}
                   </span>
