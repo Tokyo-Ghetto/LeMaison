@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "name": "Card Holder",
+    "description": "A card holder with a beautiful design.",
+    "category": "Organizers",
+    "images": [
+      "/Products/CardHolder1.jpg",
+      "/Products/CardHolder2.jpg",
+      "/Products/CardHolder3.jpg",
+      "/Products/CardHolder4.jpg"
+    ],
+    "price": 14.99
+  },
+  {
+    "id": "2",
+    "name": "Chess Box",
+    "description": "Placeholder description",
+    "category": "Decorations",
+    "images": [
+      "/Products/ChessBox1.jpg",
+      "/Products/ChessBox2.jpg",
+      "/Products/ChessBox3.jpg",
+      "/Products/ChessBox4.jpg"
+    ],
+    "price": 24.99
+  },
+  {
+    "id": "3",
+    "name": "Dish Towel",
+    "description": "Placeholder description",
+    "category": "Towels",
+    "images": ["/Products/DishTowel1.jpg"],
+    "price": 12.99
+  },
+  {
+    "id": "4",
+    "name": "Garland",
+    "description": "Placeholder description",
+    "category": "Seasonal",
+    "images": ["/Products/Garland1.jpg", "/Products/Garland2.jpg"],
+    "price": 22.99
+  },
+  {
+    "id": "5",
+    "name": "Mail Box",
+    "description": "Placeholder description",
+    "category": "Seasonal",
+    "images": [
+      "/Products/MailBox1.jpg",
+      "/Products/MailBox2.jpg",
+      "/Products/MailBox3.jpg",
+      "/Products/MailBox4.jpg"
+    ],
+    "price": 27.99
+  },
+  {
+    "id": "6",
+    "name": "Ornament",
+    "description": "Placeholder description",
+    "category": "Seasonal",
+    "images": ["/Products/Ornament1.jpg", "/Products/Ornament2.jpg"],
+    "price": 7.99
+  },
+  {
+    "id": "7",
+    "name": "NYE Pillow",
+    "description": "Placeholder description",
+    "category": "Pillows",
+    "images": [
+      "/Products/Pillow1.jpg",
+      "/Products/Pillow2.jpg",
+      "/Products/Pillow3.jpg",
+      "/Products/Pillow4.jpg"
+    ],
+    "price": 19.99
+  },
+  {
+    "id": "8",
+    "name": "Christmas Pillow",
+    "description": "Placeholder description",
+    "category": "Pillows",
+    "images": [
+      "/Products/RedPillow1.jpg",
+      "/Products/RedPillow2.jpg",
+      "/Products/RedPillow3.jpg",
+      "/Products/RedPillow4.jpg"
+    ],
+    "price": 15.99
+  },
+  {
+    "id": "9",
+    "name": "Riser",
+    "description": "Placeholder description",
+    "category": "Organizers",
+    "images": [
+      "/Products/Riser1.jpg",
+      "/Products/Riser2.jpg",
+      "/Products/Riser3.jpg",
+      "/Products/Riser4.jpg"
+    ],
+    "price": 29.99
+  },
+  {
+    "id": "10",
+    "name": "Sign",
+    "description": "Placeholder description",
+    "category": "Decorations",
+    "images": [
+      "/Products/Sign1.jpg",
+      "/Products/Sign2.jpg",
+      "/Products/Sign3.jpg"
+    ],
+    "price": 28.99
+  },
+  {
+    "id": "11",
+    "name": "Sign Heart",
+    "description": "Placeholder description",
+    "category": "Decorations",
+    "images": ["/Products/SignHeart1.jpg", "/Products/SignHeart2.jpg"],
+    "price": 14.99
+  },
+  {
+    "id": "12",
+    "name": "Storybook",
+    "description": "Placeholder description",
+    "category": "Seasonal",
+    "images": [
+      "/Products/Storybook1.jpg",
+      "/Products/Storybook2.jpg",
+      "/Products/Storybook3.jpg",
+      "/Products/Storybook4.jpg"
+    ],
+    "price": 23.99
+  }
+]
